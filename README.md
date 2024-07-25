@@ -1,6 +1,7 @@
 # LojaDeGames
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.3.
+
 Para teste do CRUD utilize o user = aluno e senha = 1234
 
 ## Development server
